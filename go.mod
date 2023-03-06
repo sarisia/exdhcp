@@ -16,9 +16,9 @@ require (
 	github.com/u-root/uio v0.0.0-20220204230159-dac05f7d2cb4 // indirect
 	go.uber.org/atomic v1.9.0 // indirect
 	go.uber.org/multierr v1.8.0 // indirect
-	golang.org/x/net v0.0.0-20220520000938-2e3eb7b945c2 // indirect
+	golang.org/x/net v0.7.0 // indirect
 	golang.org/x/sync v0.0.0-20220513210516-0976fa681c29 // indirect
-	golang.org/x/sys v0.0.0-20220520151302-bc2c85ada10a // indirect
+	golang.org/x/sys v0.5.0 // indirect
 )
 
 replace github.com/insomniacslk/dhcp => github.com/sarisia/dhcp v0.0.0-20220522144735-a77f2dd266d0
